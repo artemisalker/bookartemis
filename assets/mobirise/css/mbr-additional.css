@@ -2288,6 +2288,54 @@ body {
 .cid-rwY0jwTyhV H2 {
   text-align: center;
 }
+.cid-rx4QZnSM2i {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #e9dedc;
+}
+.cid-rx4QZnSM2i .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rx4QZnSM2i .formoid {
+  margin: auto;
+}
+.cid-rx4QZnSM2i .form-control {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+.cid-rx4QZnSM2i .input-group-btn .btn {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin: 0 !important;
+}
+.cid-rx4QZnSM2i a:not([href]):not([tabindex]) {
+  color: #fff;
+}
+.cid-rx4QZnSM2i a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+@media (max-width: 768px) {
+  .cid-rx4QZnSM2i .mbr-form .row {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .cid-rx4QZnSM2i .form-group,
+  .cid-rx4QZnSM2i .input-group-btn,
+  .cid-rx4QZnSM2i .input-group-btn .btn {
+    max-width: 300px;
+    width: 100%;
+  }
+}
+@media (min-width: 769px) {
+  .cid-rx4QZnSM2i .mbr-form .row > * {
+    padding: 0 0.5rem;
+  }
+}
+.cid-rx4QZnSM2i H2 {
+  text-align: center;
+}
 .cid-rwXEo6kFWQ {
   padding-top: 60px;
   padding-bottom: 0px;
