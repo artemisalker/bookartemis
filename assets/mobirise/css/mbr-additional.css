@@ -4135,7 +4135,7 @@ body {
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+  background: linear-gradient(to left, #554346, #e9dedc) !important;
 }
 .cid-rwY5aN0Ty6 .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
@@ -4165,7 +4165,7 @@ body {
   opacity: 1;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+  background: linear-gradient(to left, #554346, #e9dedc) !important;
 }
 .cid-rwXE8DG6Ji .navbar {
   padding: .5rem 0;
